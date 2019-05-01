@@ -1,0 +1,7 @@
+#! /usr/bin/env node
+const app = require("../src/app")
+
+const listeningPort = process.env.PORT || 3000
+app.listen(listeningPort, () => {
+  console.log(`Listening on ${listeningPort}`)
+})

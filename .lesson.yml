@@ -1,0 +1,7 @@
+---
+title: "Magical Creatures Node"
+type: "challenge"
+description: "Build an Express Web App"
+tags: "express,node,javascript,http"
+ignore:
+- "magical-creatures.md"
